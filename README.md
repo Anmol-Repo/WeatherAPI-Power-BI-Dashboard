@@ -29,7 +29,7 @@ The project demonstrates API integration, JSON data transformation, and dashboar
 3. Familiarity with **Power Query (M)** & **DAX**.
 
 ---
-## What this project shows (recruiter-ready)
+## What this project shows
 
 End-to-end API → Power Query → star-schema → DAX → interactive PBIX.
 Real-world JSON shaping: nested record expansion, type-casting, error handling, and column pruning for performance.

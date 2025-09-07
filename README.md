@@ -9,7 +9,8 @@ The project demonstrates API integration, JSON data transformation, and dashboar
 ![weather dashboard2_page-0001](https://github.com/user-attachments/assets/462f8034-40ac-4d09-96b7-f50554b55244)
 ![weather dashboard 3 pdf_page-0001](https://github.com/user-attachments/assets/1555e964-babd-4371-a39f-e07531fcd4b9)
 
-![Recording 2025-09-07 183032](https://github.com/user-attachments/assets/8a56d332-bb6a-4f11-be55-857661f34de4)
+![Dashboard_1080p](https://github.com/user-attachments/assets/f2caf54f-e94a-46e8-a8c3-50164ffe80ec)
+
 
 
 ## ✨ Features

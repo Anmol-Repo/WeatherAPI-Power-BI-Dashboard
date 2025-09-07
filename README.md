@@ -17,10 +17,10 @@ The project demonstrates API integration, JSON data transformation, and dashboar
 - Integrated WeatherAPI.com JSON data into Power BI using the Web API connector
 - Transformed and modeled data with Power Query and DAX
 - Visualizations:
-  - Temperature & humidity trend lines
-  - KPI cards for current conditions
-  - City-wise weather comparison
-  - Refreshable dataset for real-time updates
+  - Temperature & humidity trend lines<br>
+  - KPI cards for current conditions<br>
+  - City-wise weather comparison<br>
+  - Refreshable dataset for real-time updates<br>
 
 ## ✅ Prerequisites (exact)
 
@@ -31,10 +31,10 @@ The project demonstrates API integration, JSON data transformation, and dashboar
 ---
 ## What this project shows
 
-End-to-end API → Power Query → star-schema → DAX → interactive PBIX.
-Real-world JSON shaping: nested record expansion, type-casting, error handling, and column pruning for performance.
-Reusable parameterization: API_KEY and CityList to make the report repeatable and production-friendly.
-Visuals focused on decision-making: KPI cards, 7-day trends, and city comparisons.
+End-to-end API → Power Query → star-schema → DAX → interactive PBIX.<br>
+Real-world JSON shaping: nested record expansion, type-casting, error handling, and column pruning for performance.<br>
+Reusable parameterization: API_KEY and CityList to make the report repeatable and production-friendly.<br>
+Visuals focused on decision-making: KPI cards, 7-day trends, and city comparisons.<br>
 
 ## 🛠️ Setup (3 quick steps)
 
@@ -44,17 +44,17 @@ Visuals focused on decision-making: KPI cards, 7-day trends, and city comparison
 
 ## ⚙️ Quick production notes
 
-* **Do not** hardcode API keys. Use parameters or Key Vault.
-* Handle rate-limits and HTTP errors (try/otherwise in M).
-* Normalize timestamps to city local time.
-* Schedule refresh in Power BI Service; configure gateway if using on-prem.
+* **Do not** hardcode API keys. Use parameters or Key Vault.<br>
+* Handle rate-limits and HTTP errors (try/otherwise in M).<br>
+* Normalize timestamps to city local time.<br>
+* Schedule refresh in Power BI Service; configure gateway if using on-prem.<br>
 
 ## 📁 Repo (suggested)
 
 ```
 weatherapi-powerbi-dashboard/
 ├─ weather_dashboard.pbix
-└─ screenshots/         # PNGs / GIFs for recruiter preview
+└─ screenshots/         # PNGs / GIFs 
 ```
 
 
